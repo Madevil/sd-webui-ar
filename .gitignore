@@ -1,8 +1,5 @@
-**/.DS_Store
-
 **/*.swp
 **/.mypy_cache
-
-*.py[cod]
+__pycache__
 aspect_ratios.txt
 resolutions.txt
